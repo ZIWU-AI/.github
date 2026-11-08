@@ -38,3 +38,11 @@ Bring a real problem, a reproducible experiment, a tool, or an idea we can test 
 联系与合作：[contact@ziwutech.com](mailto:contact@ziwutech.com)
 
 *让具体的贡献，汇成共同的进步。*
+
+## ZIWU-Bench · Official API evaluation
+
+[ZIWU-Bench](https://ziwutech.com) is our evaluation project for scientific, engineering and robotics tasks. The upcoming Qwen, Kimi and DeepSeek comparison uses their respective **official provider APIs**: Alibaba Cloud Model Studio, Moonshot AI and DeepSeek. Every published result must identify the exact model, official endpoint, harness, task revision and verifiable run evidence.
+
+**Evaluation status:** a new unified cohort is being prepared alongside a GPU resource pool. New comparative scores have not yet been produced; task development and earlier trials are distinct from this cohort.
+
+**中文：** Qwen、Kimi、DeepSeek 的新一轮对比将分别使用各厂商官方 API。每条成绩记录具体型号、官方接口、harness、任务版本和运行证据。GPU 资源池与统一协议正在准备，新批次尚未启动，未实测的项目不会填入分数。
